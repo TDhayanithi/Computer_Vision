@@ -16,7 +16,7 @@ A deep learning project that detects **Benign**, **Malignant**, and **Normal** l
 ├── train.py        # Model training script
 ├── app.py          # Basic Streamlit app for single image prediction
 ├── chatbot_app.py  # Streamlit chatbot-style app for interactive prediction
-├── lung_model.pth  # Trained model weights
+├── lung_model_pt_final.pth  # Trained model weights
 ├── requirements.txt # Python dependencies
 └── README.md       # Project documentation (this file)
 ```
