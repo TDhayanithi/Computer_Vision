@@ -10,15 +10,15 @@ A deep learning project that detects **Benign**, **Malignant**, and **Normal** l
 
 ```
 ├── data/
-│   ├── train/      # Training images (Benign, Malignant, Normal)
-│   └── val/        # Validation images (Benign, Malignant, Normal)
-├── model.py        # LungClassifier model with GhostNetV2 + DKDC + Capsule-like layer
-├── train.py        # Model training script
-├── app.py          # Basic Streamlit app for single image prediction
-├── chatbot_app.py  # Streamlit chatbot-style app for interactive prediction
-├── lung_model_pt_final.pth  # Trained model weights
-├── requirements.txt # Python dependencies
-└── README.md       # Project documentation (this file)
+│   ├── train/                 # Training images (Benign, Malignant, Normal)
+│   └── val/                   # Validation images (Benign, Malignant, Normal)
+├── model.py                   # LungClassifier model with GhostNetV2 + DKDC + Capsule-like layer
+├── train.py                   # Model training script
+├── app.py                     # Basic Streamlit app for single image prediction
+├── chatbot_app.py             # Streamlit chatbot-style app for interactive prediction
+├── lung_model_pt_final.pth    # Trained model weights
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation (this file)
 ```
 
 ---
@@ -154,10 +154,10 @@ streamlit run chatbot_app.py
 
 ## 🧑‍💻 Author
 
-- **Bhavadharini** - [LinkedIn]() | [GitHub]()
+- **Bhavadharini** - [LinkedIn](https://www.linkedin.com/in/bhavadharini-gunasekaran-a070a722b) | [GitHub](https://github.com/Bhavadharini-G)
 - **Dhayanithi** - [LinkedIn](https://www.linkedin.com/in/dhayanithi-t-52b1a0320/) | [GitHub](https://github.com/TDhayanithi)
-- **Deeksha** - [LinkedIn]() | [GitHub]()
-- **Priyadharshini** - [LinkedIn]() | [GitHub]()
+- **Deeksha** - [LinkedIn](https://www.linkedin.com/in/deeksha-ramesh-) | [GitHub](https://github.com/DeekshaRameshBabu)
+- **Priyadharshini** - [LinkedIn](https://www.linkedin.com/in/priyadharsini-raghukumar-9365671aa/) | [GitHub]()
 ---
 
 ## 📜 License
