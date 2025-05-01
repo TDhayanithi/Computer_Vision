@@ -140,11 +140,11 @@ streamlit run chatbot_app.py
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%;">
-    <img src="1.png" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="Asset/1.png" alt="Image 1" style="width: 100%; height: auto;">
   </div>
 
   <div style="width: 48%;">
-    <img src="2.png" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="Asset/2.png" alt="Image 2" style="width: 100%; height: auto;">
   </div>
 
 </div>
